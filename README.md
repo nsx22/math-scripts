@@ -6,3 +6,5 @@ These are a bunch of scripts I made in Java to quickly solve specific types of m
 - [Distance formula](distance-formula/src/Main.java)
 - [Dividing by ratio](dividing-by-ratio/src/Main.java)
 - [Triangle inequality](triangle-inequality/src/Main.java)
+- [Mean](mean/src/Main.java)
+- [Median](median/src/Main.java)
