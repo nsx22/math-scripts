@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] values = {1, 2, 50}; // numbers you want to mean/average
+        int[] values = {20, 22, 58, 19, 21, 49, 23, 44}; // numbers you want to mean/average
 
         float ans = 0;
         for (float num : values) {

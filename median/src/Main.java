@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] values = {1, 2, 51, 70};
+        int[] values = {21, 21, 23, 26, 27, 30, 31, 42, 53, 54, 56, 61, 67, 67};
 
         Arrays.sort(values);
 
