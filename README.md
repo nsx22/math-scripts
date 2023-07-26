@@ -8,4 +8,4 @@ These are a bunch of scripts I made in Java to quickly solve specific types of m
 - [Triangle inequality](triangle-inequality/src/Main.java)
 - [Mean](mean/src/Main.java)
 - [Median](median/src/Main.java)
-- [Standard Deviation](standard-deviation/src/Main.java)
+- [Expected Value](expected-value/src/Main.java)
