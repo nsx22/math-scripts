@@ -9,3 +9,5 @@ These are a bunch of scripts I made in Java to quickly solve specific types of m
 - [Mean](mean/src/Main.java)
 - [Median](median/src/Main.java)
 - [Expected Value](expected-value/src/Main.java)
+- [Sort Array](sort-array/src/Main.java)
+- [Standard Deviation](standard-deviation/src/Main.java)
