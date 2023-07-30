@@ -11,3 +11,4 @@ These are a bunch of scripts I made in Java to quickly solve specific types of m
 - [Expected Value](expected-value/src/Main.java)
 - [Sort Array](sort-array/src/Main.java)
 - [Standard Deviation](standard-deviation/src/Main.java)
+- [Circumference to Area](circumference-to-area/src/Main.java)
